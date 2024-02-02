@@ -10,6 +10,11 @@ nav {
     padding: 2%;
 }
 
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
 nav>p {
     display: inline-block;
     color: white;
